@@ -2,3 +2,8 @@
     margin: 0;
     padding: 0;
 }
+
+/* Navbar */
+.navbar-nav {
+    font-size: 18px;
+}
